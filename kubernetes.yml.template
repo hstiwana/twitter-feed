@@ -13,7 +13,7 @@ spec:
     metadata:
       labels:
         app: twitter-feed
-        color: blue
+        color: green
         commit: ${WERCKER_GIT_COMMIT}
     spec:
       containers:
